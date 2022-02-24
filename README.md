@@ -5,6 +5,8 @@ This could be used to type passwords or commands remotely, given that the Raspbe
 
 This is based on a tutorial that I found and adapted here: https://randomnerdtutorials.com/raspberry-pi-zero-usb-keyboard-hid/. This tutorial worked, but I was not happy with the example code, so here we are.
 
+For best results, use with a Pi that has a Pi Zero USB Stem attached: https://www.sparkfun.com/products/14526
+
 # Setting up the Pi
 Image an SD card with Raspberry Pi OS Lite, and set it up so that you can access it with SSH or a keyboard.
 
